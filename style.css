@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+color: white;
+}
+h1 {
+    font-size: 60px;
+    margin: 5px 60px 100px 40px;
+}
+form {
+    border: 1px solid black;
+    height: 650px;
+    padding: 0px;
+    border-radius: 30px;
+    gap: 20px;
+    background-image: url("https://img2.wallspic.com/previews/3/4/7/8/28743/28743-blue-windows_10-microsoft_windows-horizon-daytime-x750.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+label {
+    font-size: 40px;
+}
+ #country {
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+ }
+ .o-s {
+    font-size: 25px;
+ }
+ .submit {
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+ }
+ input {
+    background-color: rgba(0, 0, 0, 0.001);
+    color: white;
+ }
+ select {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+ }
+ .margin-left {
+    margin-left: 100px;
+ }
